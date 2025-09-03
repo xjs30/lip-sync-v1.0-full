@@ -183,5 +183,5 @@ with open("output_video.mp4", "wb") as f:
 }
 ## 联系方式
 
-如有问题或建议，请联系: lipsync@example.com
+如有问题或建议，请联系: chuyiluo123@outlook.com
     
